@@ -1,2 +1,2 @@
-# firelighter
-Estimation app for campfire
+# estimatemate
+Estimation app for remote teams
